@@ -1,1 +1,1 @@
-print "Hola mon";
+print "Hola eclipse";

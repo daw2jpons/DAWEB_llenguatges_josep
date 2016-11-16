@@ -1,3 +1,3 @@
 <%
-    HelloWorldLabel.Text = "Hello, world!";
+    HelloWorldLabel.Text = "Hola eclipse!";
 %>

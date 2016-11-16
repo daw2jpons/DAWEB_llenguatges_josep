@@ -1,2 +1,2 @@
-console.log('hola mon');
-alert('hola mon');
+console.log('hola eclipse');
+alert('hola eclipse');
